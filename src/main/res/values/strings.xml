@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="Currency">Currency</string>
+    <string name="NTD">NTD</string>
+    <string name="JPY">JPY</string>
+    <string name="USD">USD</string>
+
+    <string name="Error">Error!</string>
+    <string name="Please">Please enter the number.</string>
+    <string name="OK">OK</string>
+    <string name="ntd">NTD</string>
+    <string name="go">Go</string>
+    <string name="jpy">JPY</string>
+    <string name="usd">USD</string>
+    <string name="none">none</string>
+    <string name="none1">none</string>
+
+</resources>
